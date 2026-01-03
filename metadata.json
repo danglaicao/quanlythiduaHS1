@@ -1,0 +1,5 @@
+{
+  "name": "Hệ thống Quản lý Thi đua Lớp",
+  "description": "Ứng dụng quản lý điểm thi đua giữa các lớp học theo tuần, tháng và năm học với cơ chế khóa sổ phân cấp và nhật ký kiểm soát (audit log).",
+  "requestFramePermissions": []
+}
